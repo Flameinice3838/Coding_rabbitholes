@@ -11,3 +11,6 @@ This file contains R code for the function zero_2_inf, which answers this questi
 function worked backwards using the operations 'subtract by one' and 'divide by two'. I also graph the solutions these functions generate for integer values of up to 10,000 to working backwards from the final integer provides more accurate results than starting from 0. 
 
 For more details, visit my website and read my blogpost discussing the lessons I learned from this exercise: (to be updated).
+
+# patient_doc_scheduler.py
+An early foray 
